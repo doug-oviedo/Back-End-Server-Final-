@@ -1,4 +1,8 @@
 # server-starter-code
+Group Members (Server-Side):
+Douglas Oviedo - doug-oviedo
+Plinio Cabrera- cab-p
+
 
 This repository is the server (back-end) starter code for Final Project (CRUD Application).
 
