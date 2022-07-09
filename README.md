@@ -1,6 +1,8 @@
 # server-starter-code
 Group Members (Server-Side):
+
 Douglas Oviedo - doug-oviedo
+
 Plinio Cabrera- cab-p
 
 
