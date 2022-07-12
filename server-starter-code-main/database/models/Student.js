@@ -3,6 +3,7 @@
 
 It defines the student model for the database.
 ==================================================*/
+const sequelize = require('sequelize');
 const Sequelize = require('sequelize');  // Import Sequelize
 const db = require('../db');  // Import Sequelize database instance called "db"
 
@@ -15,6 +16,21 @@ const Student = db.define("student", {
   lastname: {
     type: Sequelize.STRING,
     allowNull: false
+  },
+
+  email: {
+    type: Sequelize.STRING,
+    allowNull: false
+  },
+
+  imageURL: {
+    type: Sequelize.STRING,
+    allowNull: true
+  },
+
+  GPA: {
+    type: Sequelize.STRING, 
+    allowNull:false
   }
 });
 
