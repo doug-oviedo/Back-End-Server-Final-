@@ -1,4 +1,10 @@
 # server-starter-code
+Group Members: Name - Github
+
+Owen Lian - Ohwaaan
+Plinio Cabrera - cab-p
+Douglas Oviedo - doug-oviedo
+Sara Abdelrazek - saraabdel
 
 This repository is the server (back-end) starter code for Final Project (CRUD Application).
 
